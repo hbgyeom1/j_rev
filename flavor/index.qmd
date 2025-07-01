@@ -3,18 +3,4 @@ title: "FFR or IU to Guide PCI"
 format: revealjs
 ---
 
-# Title Slide
-
----
-
-## Slide 2
-
-- Point 1
-- Point 2
-
----
-
-## R 코드 예시
-
-```{r}
-summary(cars)
+# FFR or IU to Guide PCI
