@@ -1,15 +1,19 @@
----
-title: "Habits"
-author: "John Doe"
+title: "My Presentation"
 format: revealjs
 ---
 
-## Getting up
+# Title Slide
 
-- Turn off alarm
-- Get out of bed
+---
 
-## Going to sleep
+## Slide 2
 
-- Get in bed
-- Count sheep
+- Point 1
+- Point 2
+
+---
+
+## R 코드 예시
+
+```{r}
+summary(cars)

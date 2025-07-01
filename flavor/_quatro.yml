@@ -1,0 +1,17 @@
+
+슬라이드는 `---`로 구분하며, R 코드도 통합 가능.
+
+---
+
+### ⚙️ 4. 설정 파일 수정 (`_quarto.yml`)
+
+```yaml
+project:
+  type: website
+
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: slide
+
