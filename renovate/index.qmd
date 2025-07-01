@@ -5,7 +5,70 @@ format: revealjs
 
 ## Background
 
-- 복잡한 관상동맥 병변에 대해 혈관내 영상 유도하 PCI를 시행한 후의 임상 결과에 대한 데이터는, 혈관조영술 유도하 PCI 후의 결과와 비교했을 때, 제한적임
+- complex lesions를 가진 환자들은 PCI 결과가 그렇지 않은 환자에 비해 나쁨
+- IVUS, OCT는 PCI 시술 중 병변의 특성 파악에 유용한 정보 제공하고, 복잡한 병변에 대한 결과를 개선시킬 수 있음
+- IVUS-guided PCI는 angiography-guided PCI보다 임상 결과가 더 좋다는 연구 결과가 있지만, 표본 수가 작음, 매우 제한된 병변만 포함
+- 따라서, 
+- RENOVATE-COMPLEX PCI, Randomized Controlled Trial을 함
+
+---
+
+## Methods
+
+---
+
+## Patients
+
+- 선정 기준: complex lesion으로 PCI를 받는 19세 이상의 환자
+  
+- Complex lesion: true bifurcation lesion, chronic total occlusion, Unprotected LCA disease, long lesion, multivessel PCI, multiple stents needed, in-stent restenosis, severe calcification
+
+- 제외 기준:
+  - 심인성 쇼크, 약물 과민성, 항혈소판제 금기증, 임산부/수유모 등
+
+---
+
+## Randomization and Procedures
+
+- intravascular imaging, angiography 군에 2:1 랜덤 배정
+- OCT/IVUS 선택은 시술자 재량
+- stent optimization: 적절한 확장, 적절한 위치, 가장자리 박리의 부재를 기준으로 함. Optimization에 실패했을 경우 추가 시술 및 검사를 시행
+
+---
+
+## Primary End Point
+
+-  target-vessel failure
+  - death from cardiac causes + target-vessel–related myocardial
+infarction + target-vessel revascularization
+
+---
+
+## Sample size
+
+- 각 군 매년 TVF 발생률을 각각 3.6%, 6.0%로 가정
+- 검정력 90%
+- 양측검정 1종 오류 확률 5%
+- 탈락율 5%
+- 최종 1620명, 각 군 1092, 547명
+
+---
+
+## Statistical Analysis
+
+-
+
+---
+
+## Results
+
+---
+
+## Patients
+
+총 1639명()
+
+
 
 ---
 
@@ -17,7 +80,7 @@ format: revealjs
 
 - 주요 평가 변수는 심장 질환으로 인한 사망, 표적 혈관 관련 심근경색, 또는 임상적으로 필요한 표적 혈관 재개통술의 복합지표
 
-- 안전성 또한 평가
+- 안전성도 평가
 
 ---
 
