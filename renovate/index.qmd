@@ -5,103 +5,219 @@ format: revealjs
 
 ## Background
 
-- complex lesions를 가진 환자들은 PCI 결과가 그렇지 않은 환자에 비해 나쁨
-- IVUS, OCT는 PCI 시술 중 병변의 특성 파악에 유용한 정보 제공하고, 복잡한 병변에 대한 결과를 개선시킬 수 있음
-- IVUS-guided PCI는 angiography-guided PCI보다 임상 결과가 더 좋다는 연구 결과가 있지만, 표본 수가 작음, 매우 제한된 병변만 포함
-- 따라서, 
-- RENOVATE-COMPLEX PCI, Randomized Controlled Trial을 함
+- 복잡한 관상동맥 병변에 대해 혈관 내 영상 유도 PCI를 시행한 후의 임상 결과에 대한 데이터는, 혈관조영술 유도 PCI 후의 결과와 비교할 때, 제한적임
 
 ---
 
 ## Methods
 
----
-
-## Patients
-
-- 선정 기준: complex lesion으로 PCI를 받는 19세 이상의 환자
-  
-- Complex lesion: true bifurcation lesion, chronic total occlusion, Unprotected LCA disease, long lesion, multivessel PCI, multiple stents needed, in-stent restenosis, severe calcification
-
-- 제외 기준:
-  - 심인성 쇼크, 약물 과민성, 항혈소판제 금기증, 임산부/수유모 등
-
----
-
-## Randomization and Procedures
-
-- intravascular imaging, angiography 군에 2:1 랜덤 배정
-- OCT/IVUS 선택은 시술자 재량
-- stent optimization: 적절한 확장, 적절한 위치, 가장자리 박리의 부재를 기준으로 함. Optimization에 실패했을 경우 추가 시술 및 검사를 시행
-
----
-
-## Primary End Point
-
--  target-vessel failure
-  - death from cardiac causes + target-vessel–related myocardial
-infarction + target-vessel revascularization
-
----
-
-## Sample size
-
-- 각 군 매년 TVF 발생률을 각각 3.6%, 6.0%로 가정
-- 검정력 90%
-- 양측검정 1종 오류 확률 5%
-- 탈락율 5%
-- 최종 1620명, 각 군 1092, 547명
-
----
-
-## Statistical Analysis
-
--
+- 전향적, 다기관, 공개 시험
+- 복잡한 관상동맥 병변을 가진 환자들을 2:1 비율로 무작위 배정
+- 혈관 내 영상 유도 PCI 또는 혈관조영술 유도 PCI를 받도록 함
+- 혈관 내 영상 그룹에서는 시술자의 재량에 따라 IVUS 또는 OCT 중 선택할 수 있음
+- 주요 평가 변수는 심장질환으로 인한 사망, 표적 혈관 관련 심근경색, 임상적으로 필요한 표적 혈관 재개통술의 복합 지표
+- 안정성도 평가됨
 
 ---
 
 ## Results
 
----
-
-## Patients
-
-총 1639명()
-
-
-
----
-
-## Methods
-
-- 복잡한 관상동맥 병변을 가진 환자들을 2:1의 비율로 무작위 배정하여 혈관내 영상 유도하 PCI 또는 혈관조영술 유도하 PCI를 시행
-
-- 혈관내 영상 그룹에서는 시술자의 재량에 따라 혈관내 초음파(IVUS) 또는 광간섭단층촬영(OCT) 중 하나를 선택할 수 있도록 하였음
-
-- 주요 평가 변수는 심장 질환으로 인한 사망, 표적 혈관 관련 심근경색, 또는 임상적으로 필요한 표적 혈관 재개통술의 복합지표
-
-- 안전성도 평가
+- 총 1,639명의 환자가 무작위 배정되었으며, 이 중 1,092명은 혈관 내 영상 유도 PCI를, 547명은 혈관조영술 유도 PCI를 받음
+- 중앙 추적 기간은 약 2.1년(사분위 범위: 1.4-3.0년)
+- 주요 평가 변수 사건은 혈관 내 영상 그룹에서 76명(누적 발생률 7.7%), 혈관조영술 그룹에서 60명(누적 발생률 12.3%)에게 발생
+- (hazard ratio, 0.64; 95% 신뢰구간: 0.45-0.89; P=0.008)
 
 ---
 
 ## Results
 
-- 총 1,639명의 환자가 무작위 배정
-
-- 1,092명은 혈관내 영상 유도하 PCI를, 547명은 혈관조영술 유도하 PCI를 받도록 배정
-
-- 중앙값 2.1년(사분위 범위: 1.43.0)의 추적 관찰 기간 동안, 주요 평가 변수 사건은 혈관내 영상 그룹에서 76명(누적 발생률 7.7%), 혈관조영술 그룹에서 60명(누적 발생률 12.3%)에서 발생(위험비 0.64; 95% 신뢰 구간, 0.450.89; P=0.008)
-
-- 심장 질환으로 인한 사망은 혈관내 영상 그룹에서 16명(누적 발생률 1.7%), 혈관조영술 그룹에서 17명(누적 발생률 3.8%)에게 발생
-
+- 심장질환으로 인한 사망은 혈관 내 영상 그룹에서 16명(1.7%), 혈관조영술 그룹에서 17명(3.8%)에게 발생
 - 표적 혈관 관련 심근경색은 각각 38명(3.7%)과 30명(5.6%)에서 발생
-
-- 임상적으로 필요에 의해 시행된 표적 혈관 재개통술은 각각 32명(3.4%)과 25명(5.5%)에서 시행
-
-- 시술 관련 안전성 사건의 발생률은 두 그룹 간에 뚜렷한 차이가 없음
+- 표적 혈관 재개통술은 각각 32명(3.4%)과 25명(5.5%)에서 발생
+- 시술 관련 안전성 사건의 발생률은 두 그룹 간에 뚜렷한 차이가 없었음
 
 ---
 
-## Conclusions
+## Conclusion
 
-- 복잡한 관상동맥 병변을 가진 환자들 가운데, 혈관내 영상 유도하 PCI는 혈관조영술 유도하 PCI에 비해 심장 질환으로 인한 사망, 표적 혈관 관련 심근경색, 또는 임상적으로 필요한 표적 혈관 재개통술로 구성된 복합 결과의 위험을 더 낮춤
+- 복잡한 관상동맥 병변을 가진 환자들에서, 혈관 내 영상 유도 PCI는 혈관조영술 유도 PCI에 비해 심장질환으로 인한 사망, 표적 혈관 관련 심근경색, 또는 임상적으로 필요한 표적 혈관 재개통술의 복합 발생 위험을 더 낮춤
+
+---
+
+## 연구 목적
+
+- 복잡한 관상동맥 병변을 가진환자들은 그렇지 않은 환자들에 비해
+PCI결과가 좋지 못함
+
+- PCI 과정에서 IVUS와 OCT는 병변의 특성, 스텐트 크기, 위치 결정,
+확장 여부, 박리 여부에 관한 정보 제공
+
+- 혈관 내 영상은 복잡한 관상동맥 환자들의 PCI 결과를 향상시킬 수 있음
+
+---
+
+## 연구 목적
+
+- 선행 연구는 IVUS 가이드 PCI가 혈관유도조형술에 비해 주요 이상 임상 사건 발생율이 낮은 것을 보여줌
+
+- 표본 수가 제한적이거나, 매우 선별된 관상동맥 병변 하위군만을
+포함했기 때문에 결정적인 근거로 간주되지는 않음
+
+- 따라서 IVUS나 OCT가 복잡한 관상동맥 병변 환자들의 PCI의 임상 결과를 향상시킬 수 있는지에 대한 연구 진행함 (RENOVATECOMPLEX-PCI)
+
+---
+
+## 연구 설계
+
+- 디자인: investigator-initiated, prospective, multicenter, randomized, open-label trial
+- 대한민국 20곳
+
+---
+
+## 표본 선택
+
+- 선택 조건: 19세 이상, 복잡한 관상동맥 병변으로 PCI를 진행하는 환자
+- 복잡한 관상동맥 병변의 기준: true bifurcation lesions with
+  1. side-branch diameter of at least 2.5 mm
+  2. chronic total occlusion
+  3. unprotected left main coronary artery disease
+  4. long coronary-artery lesions that would involve an, expected stent length of at least 38 mm
+
+---
+
+## 표본 선택
+
+  5. multivessel PCI involving at least two major epicardial coronary arteries being treated at the same time
+  6. lesion that would necessitate the use of multiple stents(at least three planned stents)
+  7. lesion involving in-stent restenosis
+  8. severely calcified lesion
+  9. ostial lesions of a major epicardial coronary artery
+
+---
+
+## 표본 선택
+
+- 제외 조건:
+  - 관상동맥 병변이 적절하지 않은 경우
+  - 심인성 쇼크
+  - 아스피린, 클로피도그렐, 프라수그렐, 티카그렐러, 헤파린, 에버롤리무스, 조영제에 대한 알려진 과민반응 또는 금기사항
+  - 임신 중이거나 수유 중
+
+---
+
+## 랜덤화
+
+- 2:1 ratio
+- permuted block (block size = 6)
+- stratified -> stable ischemic heart disease, acute coronary syndrome
+
+---
+
+## 시술
+
+- criteria for sufficient stent expansion
+  1. reference-vessel diameter < 0.1 * residual stenosis
+  2.  minimum stent area > 0.8 * mean reference lumen area
+- for not in the left main coronary artery:
+  3.  absolute minimum stent area < 5.5 mm2 (IVUS) or 4.5 mm2 (OCT) for not in the left main coronary artery
+- for stenoses in the left main coronary artery
+  4. absolute minimum stent area > 7mm2 (distal left main coronary artery), 8mm2 (proximal left main coronary artery)
+
+---
+
+## 시술
+
+- 주요 스텐트 탈착
+  - coronary-artery vessel wall-stent 거리 > 0.4mm, 1mm 이상 차이
+- 주요 말단 박리
+  - 스텐트 끝 5mm 이내 발생, medial layer까지 확장,
+  - dissection angle > 60 degrees or dissection flap > 3mm
+
+- angiography 그룹 stent optimization
+  - residual stenosis diameter < 0.1 * referencevessel diameter
+  - no flow-limiting coronary-artery dissection
+
+---
+
+## Trial End Points
+
+- primary: target-vessel failure(death from cardiac causes,  target-vessel–related myocardial infarction, clinically driven target-vessel revascularization)
+- intention-to-treat population
+
+---
+
+## Statistical analysis
+
+- 예상 표본 수: 총 1,620명
+  - 검정력: 최소 90% 확보
+  - 유의수준: 5% (양측 검정, two-sided)
+  - 귀무가설: 두 군 간 주요 복합 평가 변수(primary composite end point)에 차이가 없다
+  - 통계 방법: log-rank test 사용
+- 주요 평가 변수 분석: target-vessel failure의 누적 발생률 추정
+
+---
+
+## Statistical analysis
+
+- Fine and Gray: non-cardiac causes으로 인한 사망이라는 competing risk를 보정, 무작위 배정 그룹 간 비교를 수행
+- Kaplan-Meier
+- Cox proportional-hazards
+
+---
+
+## Results
+
+- 1639 patients(이미지 그룹: 1092, 혈관조영술 그룹: 547)
+- clinical, coronary-artery target lesion, PCI procedures 특성 두 집단 유사
+
+
+- 이미지 그룹 비율 (IVUS: 800(73.3%), OPT: 278(25.5%))
+- 혈관 내 영상을 사용한 경우, 비순응성(noncompliant) 풍선을 이용한 보조적인 스텐트 확장(balloon dilation)이 더 자주 시행
+- PCI 후 minimum lumen diameter의 평균(±표준편차)은, 혈관 내 영상 유도 그룹에서 2.8±0.5mm, 혈관조영술 유도 그룹에서는 2.7±0.5mm
+
+---
+
+## Results
+
+- 이미지 그룹: stent optimization: 339 of 800 patients (42.4%)
+  - IVUS: 339 of 800 patients (42.4%)
+  - OCT:  157 of 278 patients (56.5%)
+
+- 조영술 그룹: stent optimization 322 of 547 patients (58.9%)
+
+---
+
+## Primary endpoint result
+
+- 추적조사 기간 중위값: 2.1년 (사분위 1.4-3.0)
+- primary endpoint 발생 빈도
+  - 이미지 그룹: 76 of 1092
+  - 조영술 그룹: 60 of 547
+-  (cumulative incidence at 3 years, 7.7% vs. 12.3%; hazard ratio, 0.64; 95% confidence interval [CI], 0.45 to 0.89; P=0.008)
+
+---
+
+## 기존 연구와의 차이점
+
+- 과거 연구들은 표본 수가 적거나 특정 병변 유형에 한정되었고, 장기 추적이 부족했음
+- 본 연구는 여러 유형의 복잡한 병변을 포함하고, 최신 스텐트 최적화 기준을 사용함
+- IVUS(초음파) 또는 OCT(광간섭단층촬영) 중 선택은 시술자의 재량에 맡겼음
+
+---
+
+## 주요 논의점
+
+- 영상유도 PCI의 혜택은 단순히 재시술률 감소뿐 아니라, 심근경색 및 심장사망의 위험도 감소와 관련됨
+- 특히 영상유도 PCI군은 대상혈관 심근경색 또는 심장 원인 사망의 위험이 37% 낮음
+- 시술자 편향 방지를 위해 독립적인 핵심실험실 분석과 블라인드된 심사위원회를 활용함
+
+
+---
+
+## 한계점
+
+- 비블라인드 연구이므로 시술자가 치료군을 알고 있었음
+- 스텐트 최적화가 영상유도군에서도 절반 이하(45.4%)에서만 달성됨
+- 시술 전 영상 사용은 제한적(대부분 시술 후에만 시행됨)
+- 한 연구소에서 절반 이상이 등록되었고, 전원이 동아시아(한국) 환자이므로 일반화에 제한 가능성.
+- 영상장비 사용은 비용 증가를 초래하므로, 향후 비용-효과 분석이 필요함.
