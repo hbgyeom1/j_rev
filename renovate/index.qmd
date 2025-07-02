@@ -100,7 +100,7 @@ PCI결과가 좋지 못함
 - 제외 조건:
   - 관상동맥 병변이 적절하지 않은 경우
   - 심인성 쇼크
-  - 아스피린, 클로피도그렐, 프라수그렐, 티카그렐러, 헤파린, 에버롤리무스, 조영제에 대한 알려진 과민반응 또는 금기사항
+  - 약물 과민반응 또는 금기사항
   - 임신 중이거나 수유 중
 
 ---
@@ -115,33 +115,33 @@ PCI결과가 좋지 못함
 
 ## 시술
 
-- criteria for sufficient stent expansion
-  1. reference-vessel diameter < 0.1 * residual stenosis
-  2.  minimum stent area > 0.8 * mean reference lumen area
-- for not in the left main coronary artery:
-  3.  absolute minimum stent area < 5.5 mm2 (IVUS) or 4.5 mm2 (OCT) for not in the left main coronary artery
-- for stenoses in the left main coronary artery
-  4. absolute minimum stent area > 7mm2 (distal left main coronary artery), 8mm2 (proximal left main coronary artery)
+- 성공적인 스텐트 삽입 기준
+  1. 기준 혈관 직경경 < 0.1 * 잔여 협착
+  2.  최소 스텐트 면적 > 0.8 * 평균 참조 내강 면적
+- 좌주관상동맥이 아닌 경우:
+  3.  절대 최소 스텐트 면적 < 5.5 mm2 (IVUS) 또는 4.5 mm2 (OCT)
+- 좌주관상동맥인 경우:
+  4. 절대 최소 스텐트 면적 > 7mm2 (좌주관상동맥 말단부), 8mm2 (좌주관상동맥 근위부)
 
 ---
 
 ## 시술
 
 - 주요 스텐트 탈착
-  - coronary-artery vessel wall-stent 거리 > 0.4mm, 1mm 이상 차이
+  - 관상동맥 혈관벽-stent 거리 > 0.4mm, 1mm 이상 차이
 - 주요 말단 박리
   - 스텐트 끝 5mm 이내 발생, medial layer까지 확장,
-  - dissection angle > 60 degrees or dissection flap > 3mm
+  - 박리 각도 > 60 degrees 또는 박리 조각 > 3mm
 
-- angiography 그룹 stent optimization
-  - residual stenosis diameter < 0.1 * referencevessel diameter
-  - no flow-limiting coronary-artery dissection
+- 조영술 그룹 스텐트 최적화
+  - 잔여 협착 직경 < 0.1 * 기준 혈관 직경
+  - 혈류 장애를 유발하지 않는 관상동맥 박리
 
 ---
 
 ## Trial End Points
 
-- primary: target-vessel failure(death from cardiac causes,  target-vessel–related myocardial infarction, clinically driven target-vessel revascularization)
+- primary: 표적 혈관 실패(심장사,  표적 혈관 심근경색, 혈관재개통술)
 - intention-to-treat population
 
 ---
