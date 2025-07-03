@@ -43,6 +43,15 @@ format: revealjs
 
 ## 연구 목적
 
+- FFR (Fractional Flow Reserve)
+  - 관상동맥의 특정 부위가 혈류를 얼마나 방해하는지를 수치로 평가하는 검사
+- IVUS (Intravascular Ultrasound)
+  - 혈관 내에 초음파 기구(카테터)를 삽입하여 혈관의 단면 이미지를 실시간으로 확인하는 검사
+
+---
+
+## 연구 목적
+
 - 중등도 협착(40-70%)을 보이는 CAD 환자들에 대해,
 - PCI 수행 기준과 유도에 있어
 - FFR 단독 사용군과 IVUS 단독 사용군을 비교하여,
