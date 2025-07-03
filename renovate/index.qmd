@@ -152,7 +152,7 @@ PCI결과가 좋지 못함
   - 검정력: 최소 90% 확보
   - 유의수준: 5% (양측 검정, two-sided)
   - 귀무가설: 두 군 간 주요 복합 평가 변수(primary composite end point)에 차이가 없다
-  - 통계 방법: log-rank test 사용
+  - log-rank test 사용
 - 주요 평가 변수 분석: target-vessel failure의 누적 발생률 추정
 
 ---
@@ -193,7 +193,8 @@ PCI결과가 좋지 못함
 - primary endpoint 발생 빈도
   - 이미지 그룹: 76 of 1092
   - 조영술 그룹: 60 of 547
--  (cumulative incidence at 3 years, 7.7% vs. 12.3%; hazard ratio, 0.64; 95% confidence interval [CI], 0.45 to 0.89; P=0.008)
+
+- cumulative incidence at 3 years, 7.7% vs. 12.3%; HR = 0.64
 
 ---
 
